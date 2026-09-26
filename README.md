@@ -57,6 +57,7 @@ Python 3.
 | [0001-two-sum](https://github.com/rafaerajani/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/rafaerajani/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/rafaerajani/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0169-majority-element](https://github.com/rafaerajani/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/rafaerajani/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [1929-concatenation-of-array](https://github.com/rafaerajani/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
@@ -67,11 +68,13 @@ Python 3.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rafaerajani/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/rafaerajani/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/rafaerajani/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/rafaerajani/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/rafaerajani/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/rafaerajani/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/rafaerajani/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## String
@@ -87,4 +90,16 @@ Python 3.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/rafaerajani/LeetCode/tree/main/0027-remove-element/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/rafaerajani/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/rafaerajani/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/rafaerajani/LeetCode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->

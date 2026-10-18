@@ -60,6 +60,7 @@ Python 3.
 | [0169-majority-element](https://github.com/rafaerajani/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/rafaerajani/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0705-design-hashset](https://github.com/rafaerajani/LeetCode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/rafaerajani/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [1929-concatenation-of-array](https://github.com/rafaerajani/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@ Python 3.
 | [0217-contains-duplicate](https://github.com/rafaerajani/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/rafaerajani/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0705-design-hashset](https://github.com/rafaerajani/LeetCode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/rafaerajani/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,12 +110,15 @@ Python 3.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/rafaerajani/LeetCode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/rafaerajani/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/rafaerajani/LeetCode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/rafaerajani/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/rafaerajani/LeetCode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/rafaerajani/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->

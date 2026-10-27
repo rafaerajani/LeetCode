@@ -7,4 +7,5 @@ class Solution(object):
             ans[len(nums) + i] = num
         return ans
 
-        # for n numbers in num, the time complexity of this is O(n) and space complexity is O(2n) which simplifies to O(n)
+        # Time complexity = O(n)
+        # space complexity is O(2n) which simplifies to O(n)

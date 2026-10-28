@@ -21,5 +21,5 @@ class Solution(object):
         # be if i == or > len of word as we would then get the proper edge case as 
         # index is 0 indexed, length is not
         
-        # Time Complexity = O(n) (n being the length of strs[1])
+        # Time Complexity = O(n*k) (n being the length of strs[1]) see next commit for correct analysis
         # Space Complexity = O(1)

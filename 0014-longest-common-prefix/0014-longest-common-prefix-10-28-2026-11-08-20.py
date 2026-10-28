@@ -16,3 +16,5 @@ class Solution(object):
 
         return reference
 
+        # Time complexity = O(L*n) L being the lenght of the longest prefix and n being length of strs worst case O(k*n) if the prefix is the lenght of strs[0]
+        # space complexity = O(1)

@@ -56,6 +56,7 @@ Python 3.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rafaerajani/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/rafaerajani/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rafaerajani/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/rafaerajani/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/rafaerajani/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/rafaerajani/LeetCode/tree/main/0169-majority-element/) | Easy |
@@ -99,6 +100,7 @@ Python 3.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rafaerajani/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/rafaerajani/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/rafaerajani/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/rafaerajani/LeetCode/tree/main/0125-valid-palindrome/) | Easy |

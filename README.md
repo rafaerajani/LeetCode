@@ -88,6 +88,7 @@ Python 3.
 | [0125-valid-palindrome](https://github.com/rafaerajani/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/rafaerajani/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/rafaerajani/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/rafaerajani/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@ Python 3.
 | [0027-remove-element](https://github.com/rafaerajani/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/rafaerajani/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/rafaerajani/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/rafaerajani/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +127,8 @@ Python 3.
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/rafaerajani/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/rafaerajani/LeetCode/tree/main/0706-design-hashmap/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/rafaerajani/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->

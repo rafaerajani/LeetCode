@@ -62,6 +62,7 @@ Python 3.
 | [0088-merge-sorted-array](https://github.com/rafaerajani/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/rafaerajani/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/rafaerajani/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/rafaerajani/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0705-design-hashset](https://github.com/rafaerajani/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/rafaerajani/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [1929-concatenation-of-array](https://github.com/rafaerajani/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -76,6 +77,7 @@ Python 3.
 | [0049-group-anagrams](https://github.com/rafaerajani/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/rafaerajani/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/rafaerajani/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/rafaerajani/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/rafaerajani/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0705-design-hashset](https://github.com/rafaerajani/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/rafaerajani/LeetCode/tree/main/0706-design-hashmap/) | Easy |
@@ -142,4 +144,8 @@ Python 3.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/rafaerajani/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/rafaerajani/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->

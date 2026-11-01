@@ -28,7 +28,7 @@ Folders are flat. The topic organisation lives in the roadmap below, not in the 
 |---|-------|--------|
 | 1 | Arrays & Hashing | In progress |
 | 2 | Two Pointers | In progress |
-| 3 | Sliding Window | Not started |
+| 3 | Sliding Window | In progress |
 | 4 | Stack | Not started |
 | 5 | Binary Search | Not started |
 | 6 | Linked List | Not started |
